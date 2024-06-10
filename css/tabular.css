@@ -1,0 +1,40 @@
+.delete-button {
+    color: red;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  
+  .logout-container {
+    text-align: right;
+    padding: 10px;
+    margin-top: 50px;
+  }
+  
+  .logout-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .account-button{
+    background-color: #00b350;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  .account-button:hover{
+    background-color: #027e39;
+  }
+  
+  .logout-button:hover {
+    background-color: #d32f2f;
+  }

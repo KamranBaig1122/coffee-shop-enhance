@@ -1,0 +1,45 @@
+body,
+html {
+  background-color: rgb(84, 25, 160);
+  height: 100%;
+  margin: 0;
+  padding: 30px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.front {
+  text-align: center;
+}
+
+.heading {
+  color: white;
+  margin-top: 20%;
+}
+
+button {
+  margin-left: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background-color: rgb(35, 8, 71);
+  color: white;
+}
+
+.main_word {
+    color: white;
+    font-family: "Montez", cursive;
+  }
+
+a {
+  text-decoration: none;
+  color: white;
+}

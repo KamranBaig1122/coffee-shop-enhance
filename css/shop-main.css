@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(84, 25, 160);
+}
+
+.main_word {
+  color: white;
+  font-family: "Montez", cursive;
+}
+
+.main-container button {
+  padding: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: none;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: rgb(39, 9, 88);
+}
+
+.main-container a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+.menu-list li a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Montez', cursive;
+    font-size: 30px;
+}
+
+.menu-list li{
+    margin-bottom: 50px;
+}
+
+.front{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    border: 1px solid black;
+}
+
+li button{
+    padding-left: 100px;
+    padding-right: 100px;
+    color: white;
+    background-color: rgb(39, 9, 88);
+    border: 1px solid white;
+    border-radius: 10px;
+}

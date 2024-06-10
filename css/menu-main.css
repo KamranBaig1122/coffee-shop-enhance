@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(84, 25, 160);
+}
+
+h1{
+    color: white;
+    font-family: 'Montez', cursive;
+    font-size: 30px;
+}
+
+label{
+    color: white;
+    font-family: 'Montez', cursive;
+    font-size: 30px;
+}
+
+table {
+    
+    width: 100%;
+    color: white;
+    font-family: 'Montez', cursive;
+    font-size: 20px;
+}
+
+th, td {
+    
+    padding: 2px;
+    text-align: center;
+}
+
+.front {
+    position:absolute;
+    background-color: black;
+    width: 90%;
+    height: 500px;
+    opacity: 0.7;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 0 100px;
+    text-align: center;
+}
+
+.plus{
+    border: none;
+    background-color: rgb(71, 216, 71);
+}
+
+.tab{
+    font-size: 15px;
+    margin: 0 10px;
+}
+
+.minus{
+    border: none;
+    background-color: rgb(240, 69, 69);
+}
+
+#table-number {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.order{
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.anchor{
+    text-decoration: none;
+}
